@@ -5,33 +5,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Awesome Site</title>
     <link rel="stylesheet" href="css/style.css">
-    <script src="js/script.js" defer></script>
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>My Awesome Site</h1>
             <nav>
                 <ul>
-                    <li><a data-target="home">Home</a></li>
-                    <li><a data-target="about">About</a></li>
-                    <li><a data-target="contact">Contact</a></li>
+                    <li><a href="#introduction">자기소개</a></li>
+                    <li><a href="#career">희망직무</a></li>
+                    <li><a href="#portfolio">포트폴리오</a></li>
+                    <li><a href="#contact">연락처</a></li>
                 </ul>
             </nav>
         </div>
     </header>
     <main class="container">
-        <section id="home" class="section">
-            <h2>Welcome to My Awesome Site</h2>
-            <p>This is a custom website created from scratch.</p>
+        <section id="introduction" class="section">
+            <h2>자기소개</h2>
+            <p>여기에 자기소개 내용을 입력하세요.</p>
         </section>
-        <section id="about" class="section">
-            <h2>About</h2>
-            <p>Information about the site.</p>
+        <section id="career" class="section">
+            <h2>희망직무</h2>
+            <p>여기에 희망하는 직무와 관련된 내용을 입력하세요.</p>
+        </section>
+        <section id="skills" class="section">
+            <h2>나의 기술</h2>
+            <ul>
+                <li>기술 1</li>
+                <li>기술 2</li>
+                <li>기술 3</li>
+                <!-- 필요한 만큼 기술을 나열하세요 -->
+            </ul>
+        </section>
+        <section id="portfolio" class="section">
+            <h2>포트폴리오</h2>
+            <div class="portfolio-item">
+                <h3>프로젝트 1</h3>
+                <p>프로젝트 설명이나 링크를 여기에 추가하세요.</p>
+            </div>
+            <div class="portfolio-item">
+                <h3>프로젝트 2</h3>
+                <p>프로젝트 설명이나 링크를 여기에 추가하세요.</p>
+            </div>
+            <!-- 필요한 만큼 포트폴리오 항목을 추가하세요 -->
         </section>
         <section id="contact" class="section">
-            <h2>Contact</h2>
-            <p>Contact information goes here.</p>
+            <h2>연락처</h2>
+            <p>Email: example@example.com</p>
+            <p>Phone: 123-456-7890</p>
         </section>
     </main>
     <footer>
