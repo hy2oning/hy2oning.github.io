@@ -5,3 +5,8 @@ https://hy2oning.github.io/
 
 ## 테마
 테마는 직접 만들었으며, 헤더에 자기소개, 희망직무, 포트폴리오 세개를 큰 메뉴로 잡아서 만들었습니다.
+
+## 사용한 기술
+* HTML
+* CSS
+* JavaScript
