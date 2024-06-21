@@ -93,13 +93,11 @@ footer {
 }
 
 .profile img {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   margin-bottom: 10px;
 }
-
-
 
 .profile h2 {
   margin: 10px 0;
@@ -108,11 +106,18 @@ footer {
 /* Social links styling */
 .social-links {
   display: flex;
-  gap: 20px;
+  gap: 10px;
   margin-top: 10px;
 }
 
 .social-links img {
-  width: 150px; /* Adjust the size as needed */
+  width: 100px;
+  height: 30px;
+}
+
+/* GitHub Most Used Languages */
+#github-languages img {
+  width: 300px; /* Adjust the size as needed */
   height: auto;
+  margin-top: 10px;
 }
