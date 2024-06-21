@@ -29,3 +29,9 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .catch(error => console.error('Error fetching GitHub data:', error));
 });
+
+document.getElementById('video-link').addEventListener('click', function(event) {
+    event.preventDefault(); // 기본 링크 동작 방지
+    document.getElementById('video-player').style.display = 'block'; // 동영상 플레이어 보이기
+    document.getElementById('video-player').play(); // 동영상 재생
+});
