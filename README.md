@@ -28,4 +28,7 @@ https://hy2oning.github.io/
 * 운영체제 스케줄러 (이미지 클릭시 https://github.com/hy2oning/window 로 이동)
 * 한남대학교 이수체계도 만들기 (이미지 클릭시 https://github.com/hy2oning/my-coursegraph-js 로 이동)
 
+## 아쉬운점
+테마를 좀 더 꾸며서 가독성을 더 높이고 싶고 반응형 디자인도 추가해서 화면을 줄이거나 모바일에서 볼때도 화면이 깨지지 않게 만들어보고 싶다.
+
 
