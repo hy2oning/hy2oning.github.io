@@ -10,3 +10,9 @@ https://hy2oning.github.io/
 * HTML
 * CSS
 * JavaScript
+
+## 자기소개
+* Gmail과 GitHub 링크를 통한 뱃지를 연결해서 누르면 설정해둔 링크로 이동합니다.
+* GitHub API를 가져와 현재까지 제가 사용한 언어 이용률을 볼 수 있게 해두었습니다.
+* 제가 생각한 저의 기술 JavaScript - 70%, C - 80%, C++ - 30%, c# - 50%, Python - 30%에 대해 작성하고 그래프를 통해 퍼센트를 나타내었습니다. 
+
